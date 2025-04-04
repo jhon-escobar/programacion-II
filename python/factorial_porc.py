@@ -56,4 +56,4 @@ while True:
     num = int(input("Ingrese un número entero no negativo: "))
     resultado = calcular_factorial(num)
     print(f"El factorial de {num} es {resultado}")
-
+git

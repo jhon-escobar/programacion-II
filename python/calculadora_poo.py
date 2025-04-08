@@ -14,8 +14,10 @@ class Calculadora:
         self.operacion = "Resta"
         self.resultado = a - b
         return self.mostrar_operacion(a,b)
+    
     def _multiplicar(self,a,b):
         return a*b
+    
     def multiplicacion(self,a ,b):
         self.operacion = "Multiplicación"
         self.resultado = self._multiplicar(a,b)

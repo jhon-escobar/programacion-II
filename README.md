@@ -76,3 +76,11 @@ class CalculadoraFactorial(Calculadora):
 ---
 
 # Polymorfismo
+
+Es la capacidad de los objetos para adoptar diferentes formas. Esto permite que los objetos de una clase derivada sean tratados como objetos de una clase base.
+
+```python
+ def mostrar_operacion(self,a,b):
+        return f"{self.operacion}: {a} y {b} = {self.resultado}"
+
+```

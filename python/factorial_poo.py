@@ -1,4 +1,4 @@
-from ejercicio1 import Calculadora
+from python.calculadora_poo import Calculadora
 class CalculadoraFactorial(Calculadora):
     def __init__(self,numero): 
         self.numero = numero

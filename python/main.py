@@ -1,5 +1,5 @@
-from ejercicio1 import Calculadora 
-from calculadora_factorial import CalculadoraFactorial
+from python.calculadora_poo import Calculadora 
+from python.factorial_poo import CalculadoraFactorial
 c = Calculadora ()
 print(c.suma(45,25))
 print(c.resta(46,45))

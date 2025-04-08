@@ -1,6 +1,6 @@
 from ejercicio1 import Calculadora
 class CalculadoraFactorial(Calculadora):
-    def __init__(self,numero):
+    def __init__(self,numero): 
         self.numero = numero
         super().__init__()
         

@@ -18,11 +18,3 @@ class Pila:
     
     
     
-# A[Inico: evaluar_posfija] -->B  =[Crear pila vacia]
-# B --> C[Dividir expresion en tokens]
-# C --> D{Procesar cada token}
-# D --> E{es codigo?}
-# E --> | Si | F[Convertir a entero]
-# F --> G[Añadir a la pila]
-# G --> 
-# E -->

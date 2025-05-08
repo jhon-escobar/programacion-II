@@ -15,6 +15,9 @@ class Pila:
     
     def is_empty(self):
         return len(item. items) == 0
+    
+    
+    
 # A[Inico: evaluar_posfija] -->B  =[Crear pila vacia]
 # B --> C[Dividir expresion en tokens]
 # C --> D{Procesar cada token}

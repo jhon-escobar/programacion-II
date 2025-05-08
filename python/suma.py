@@ -1,5 +1,5 @@
-a = 9
-b = 234
+a = 10
+b = 2
 suma = a + b
 print(suma)
 
